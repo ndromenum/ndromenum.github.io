@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ndromenum.github.io/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/app/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/assets/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/css/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/includes/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/item/sitemap.html.gz
+Sitemap: https://ndromenum.github.io/src/sitemap.html.gz
